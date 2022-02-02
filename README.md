@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Corbin-Arcus&show_icons=true&theme=tokyonight &hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Corbin-Arcus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Corbin-Arcus}.${Corbin-Arcus})
 
