@@ -36,12 +36,3 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
-### More About Me
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Corbin-Arcus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Corbin-Arcus}.${Corbin-Arcus})
-
